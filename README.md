@@ -13,7 +13,6 @@ This repository contains two simple Python scripts as part of Assignment 1.
   - Subtraction
   - Multiplication
   - Division (with zero division handling)
-- Includes basic input validation.
 
 ### ✅ Task 2: Personalized Greeting
 #File: `task2_greeting.py`
